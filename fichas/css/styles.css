@@ -1,0 +1,51 @@
+.gray{
+	color: gray;
+}
+.text{
+	font-size: 200px;
+	padding: 0;
+	margin: 0;
+
+}
+.btn {
+  background: #ebf21b;
+  border-radius: 0px;
+  font-family: Georgia;
+  color: black;
+  font-size: 40%;
+  border: solid black 1px;
+  text-decoration: none;
+  width: 40%;
+}
+
+img
+{
+	padding: 0;
+	margin: 0;
+	width:  50%;
+
+}
+
+@media screen and (max-width: 480px) {
+    img {
+       padding: 0;
+	margin: 0;
+	width: 100%;
+    }
+    .text{
+	font-size: 150px;
+	padding: 0;
+	margin: 0;
+	}	
+	.btn {
+  background: #ebf21b;
+  border-radius: 0px;
+  font-family: Georgia;
+  color: black;
+  font-size: 80px;
+  border: solid black 1px;
+  text-decoration: none;
+  width: 100%;
+}
+
+}
