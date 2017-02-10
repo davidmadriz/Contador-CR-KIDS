@@ -3,7 +3,7 @@
 ////////////////// CONEXION A LA BASE DE DATOS ////////////////////////////////////
 $host="localhost";
 $usuario="root";
-$contraseña="disow32245";
+$contraseña="";
 $base="contador";
 
 
