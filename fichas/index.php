@@ -11,6 +11,8 @@
 				<input type="button" value="Inicializar" class="btn" style="font-size: 50px;" onclick="window.location.href='inicializar.php'" />
 				<br><br>
 				<input type="button" value="Continuar" class="btn" style="font-size: 50px;" onclick="window.location.href='contador.php'" />
+				<br><br>
+				<input type="button" value="Limpiar DB" class="btn" style="font-size: 50px;" onclick="window.location.href='limpiardb.php'" />
 				</center>
 	</body>
 </html>
